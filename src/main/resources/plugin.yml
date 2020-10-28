@@ -1,0 +1,7 @@
+name: ResourcePackSimpleSend
+version: ${project.version}
+main: me.techchrism.resourcepacksimplesend.ResourcePackSimpleSend
+api-version: 1.13
+author: Techdoodle
+depend:
+  - ResourcePackAPI
